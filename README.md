@@ -17,9 +17,11 @@ In this prject you can:
 
 ## How this project looks like:
 
-<img width="200" alt="Screen Shot 2022-07-30 at 18 17 32" src="https://user-images.githubusercontent.com/70035439/182004545-4f308af8-5b06-4297-a1b8-b2ee565e4da3.png"> <img width="200" alt="Screen Shot 2022-07-30 at 18 18 58" src="https://user-images.githubusercontent.com/70035439/182004550-d1fa05c3-1a62-4135-a362-bcddd384b8b8.png"> <img width="200" alt="Screen Shot 2022-07-30 at 18 21 30" src="https://user-images.githubusercontent.com/70035439/182004554-330a1a41-3298-44d5-ba74-b4ca4d311ecf.png">
+<img width="300" height="370" alt="Screen Shot 2022-07-30 at 18 17 32" src="https://user-images.githubusercontent.com/70035439/182004545-4f308af8-5b06-4297-a1b8-b2ee565e4da3.png"> <img width="300" height="370" alt="Screen Shot 2022-07-30 at 18 18 58" src="https://user-images.githubusercontent.com/70035439/182004550-d1fa05c3-1a62-4135-a362-bcddd384b8b8.png"> 
 
-<img width="300" alt="Screen Shot 2022-07-30 at 18 22 03" src="https://user-images.githubusercontent.com/70035439/182004556-24292b9f-31e1-45bb-b4ba-18bb993a93df.png"> <img width="300" alt="Screen Shot 2022-07-30 at 18 23 44" src="https://user-images.githubusercontent.com/70035439/182004562-e0a50c0e-0d76-480e-9f76-dffbce73d431.png"> <img width="300" alt="Screen Shot 2022-07-30 at 18 24 29" src="https://user-images.githubusercontent.com/70035439/182004568-5ed8edba-2650-4897-9abd-87572add07a9.png">
+<img width="300" height="370" alt="Screen Shot 2022-07-30 at 18 21 30" src="https://user-images.githubusercontent.com/70035439/182004554-330a1a41-3298-44d5-ba74-b4ca4d311ecf.png"> <img width="300" height="370" alt="Screen Shot 2022-07-30 at 18 22 03" src="https://user-images.githubusercontent.com/70035439/182004556-24292b9f-31e1-45bb-b4ba-18bb993a93df.png">
+
+<img width="300" height="370" alt="Screen Shot 2022-07-30 at 18 23 44" src="https://user-images.githubusercontent.com/70035439/182004562-e0a50c0e-0d76-480e-9f76-dffbce73d431.png"> <img width="300" height="370" alt="Screen Shot 2022-07-30 at 18 24 29" src="https://user-images.githubusercontent.com/70035439/182004568-5ed8edba-2650-4897-9abd-87572add07a9.png">
 
 
 
