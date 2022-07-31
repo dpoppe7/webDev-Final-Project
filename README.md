@@ -37,7 +37,8 @@ The system is composed of several scripts:
 6. add_friends.php – Searches for friends
 7. add_friend_db.php – Adds a friend to the database
 8. remove_friend_db.php – Removes a friend from the database
-9. logout.php – Logs user out
+9. logout.php – Logs user out <br/>
+-To avoid plagiarism some files are private
 
 ### Database Setup
 
